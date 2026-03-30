@@ -32,3 +32,9 @@ Outputs:
 - <input>_serial_out_<simulation_time>_<thread_number>.txt
 - <input>_parallel_out_<simulation_time>_<thread_number>.txt
 - speedup_result.txt
+
+## Other Implementations
+
+This project also includes an alternative parallel implementation using OpenMP:
+
+- OpenMP version: https://github.com/AfilipoaeGeorge/AfilipoaeGeorge-APD_PROIECT2_EPIDEMICS_SIMULATION
